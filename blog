@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
     <title>My blog</title>
 </head>
 <body>
@@ -22,6 +21,53 @@
     <ul>
         <li>HTML</li>
     </ul>
+</div>
+<div>
+ <div>
+    <h1><span>My Coding Schedule</span></h1>
+    <table>
+    <tr>
+        <th>Day</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</h1>
+        <th>Thu</th>
+        <th>Fri</th>
+    </tr>
+    <tr>
+        <td>9-10</td>
+        <td></td>
+        <td class="selected">Practice</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1-1:30</td>
+        <td></td>
+        <td></td>
+        <td class="selected">Play</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3:45-5</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="selected">Code</td>
+    </tr>
+    <tr>
+        <td>6-6:15</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="selected">Discuss</td>
+    </tr>
+    </table>
+ </div>   
+ 
 </div>
 </body>
 </html>
